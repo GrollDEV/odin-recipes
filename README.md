@@ -1,12 +1,16 @@
 # odin-recipes
-The Odin Project
 
-Worum geht es?
+# The Odin Project
 
-Dies ist ein Weg ein Fullstack-Developer zu werden. In diesem Repo geht es darum HTML zu lernen und zu verstehen. 
+## About
 
-Credits
+This repository is part of my journey to become a fullstack developer.
+The focus here is on learning and understanding **HTML**.
 
-The image bolognese.jpeg on bolognese.html is licened by https://creativecommons.org/publicdomain/
+## Credits
 
-The image lasagne.jpeg on lasagne.html is licened by https://creativecommons.org/publicdomain/
+| File | Used on | License |
+|------|---------|---------|
+| `bolognese.jpeg` | `bolognese.html` | [CC0 Public Domain](https://creativecommons.org/publicdomain/) |
+| `lasagne.jpeg` | `lasagne.html` | [CC0 Public Domain](https://creativecommons.org/publicdomain/) |
+| `greencurry.jpg` | `greencurry.html` | [CC BY 2.0 DE](https://creativecommons.org/licenses/by/2.0/de/) |
